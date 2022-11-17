@@ -8,8 +8,10 @@
 
 
 
-# Title 
-<h2> <style="color:#ff6347"> AI based discourse for Banking Industry<h2>
+# Title
+
+<h1> AI based discourse for Banking Industry<h1>
+
   
 
 
@@ -49,4 +51,13 @@ In this project, we are build a chatbot using Watson's assistant. This chat bot 
 # Architecture 
 <img src="https://user-images.githubusercontent.com/114660853/202467808-e443e047-c3cf-49fb-9561-9f66c5d5bfdc.png"  width="300" height="200">
   
+  
+# Follow Us 
+  <ul>
+    <li><b><a href="https://www.instagram.com/mr.chubby_charm/">SANDEEP KUMAR </a></b></li>
+  <li><b><a href="https://www.instagram.com/sabari_snk_7665_/">SABARINANTHAKUMAR </a></b></li>
+  <li><b><a href="https://www.instagram.com/prabu_solo__/">PRABU </a></b></li>
+  <li><b><a href="https://www.instagram.com/surendhar_blackdevil/">SURENDHAR</a></b></li>
+  
+  </ul>
   
