@@ -1,10 +1,10 @@
 # IBM-Project-39524-1660454290
 # Team ID: PNT2022TMID31091
 # Team Members
-<b> SANDEEP KUMAR. K <b><br>
-<b> SABARINANTHAKUMAR. S<b><br>
-<b> PRABU. G<b><br>
-<b> SURENDHAR. P<b>
+<b> SANDEEP KUMAR . K <b><br>
+<b> SABARINANTHAKUMAR . S<b><br>
+<b> PRABU . G<b><br>
+<b> SURENDHAR . P<b>
 
 
 
