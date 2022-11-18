@@ -1,6 +1,12 @@
 
 
 # IBM-Project-39524-1660454290
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/114660853/202789509-cde6d113-8a40-472f-b612-ac5f0c384780.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/114660853/202789509-cde6d113-8a40-472f-b612-ac5f0c384780.gif">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/114660853/202789509-cde6d113-8a40-472f-b612-ac5f0c384780.gif">
+</picture>
+
 # Team ID: PNT2022TMID31091
 # Team Members
 <b> SANDEEP KUMAR . K <b><br>
