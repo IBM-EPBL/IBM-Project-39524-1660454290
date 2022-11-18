@@ -1,3 +1,5 @@
+
+
 # IBM-Project-39524-1660454290
 # Team ID: PNT2022TMID31091
 # Team Members
@@ -61,3 +63,19 @@ In this project, we are build a chatbot using Watson's assistant. This chat bot 
   
   </ul>
   
+# Contribution 
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg">
+</picture>
+  
+  
+  <p align="center">Made by SNK ❤</p>
