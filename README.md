@@ -27,6 +27,7 @@
 <h3>Artificial Intelligence<h3>
   
 # Project Website [Click HERE to view](https://sabari-snk.github.io/bankify/)
+# Project Demo video [Click Here to view](https://drive.google.com/drive/u/0/folders/1Sd5QgqMob5q3hgnT4x3iM4-fHmvR0HIv)
 
 # Skills Required
   
@@ -105,7 +106,7 @@ In this project, we are build a chatbot using Watson's assistant. This chat bot 
   User Acceptance Execution Report - [View Document](https://github.com/IBM-EPBL/IBM-Project-39524-1660454290/blob/main/Project%20Development%20Phase/Testing/UAT%20Report%20.pdf)
   
   # Final Deliverables : 
-  Final Project Report - [View Document]()<br>
+  Final Project Report - [View Document](https://github.com/IBM-EPBL/IBM-Project-39524-1660454290/tree/main/Final%20Deliverables/Project%20Final%20report)<br>
   Source Code - [View Document](https://github.com/IBM-EPBL/IBM-Project-39524-1660454290/tree/main/Final%20Deliverables/Source%20Code)
   
   
