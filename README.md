@@ -106,7 +106,7 @@ In this project, we are build a chatbot using Watson's assistant. This chat bot 
   User Acceptance Execution Report - [View Document](https://github.com/IBM-EPBL/IBM-Project-39524-1660454290/blob/main/Project%20Development%20Phase/Testing/UAT%20Report%20.pdf)
   
   # Final Deliverables : 
-  Final Project Report - [View Document](https://github.com/IBM-EPBL/IBM-Project-39524-1660454290/tree/main/Final%20Deliverables/Project%20Final%20report)<br>
+  Final Project Report - [View Document](https://github.com/IBM-EPBL/IBM-Project-39524-1660454290/blob/main/Final%20Deliverables/Project%20Final%20report/Project%20-%20Final%20report.pdf)<br>
   Source Code - [View Document](https://github.com/IBM-EPBL/IBM-Project-39524-1660454290/tree/main/Final%20Deliverables/Source%20Code)
   
   
